@@ -3,24 +3,10 @@
 ---
 ## Skills
 
-### Languages & Frameworks
-- Go  
-- Gin
-
-### Architecture
-- Microservices  
-- RESTful APIs  
-- gRPC
-
-### Databases
-- MySQL  
-- MongoDB
-
-### Tools & Other Technologies
-- Apache Kafka  
-- Docker / Docker Compose  
-- Redis  
-- GitHub
+- Languages & Frameworks: Go, Gin
+- Architecture: Microservices, RESTful APIs, gRPC
+- Databases: PostgreSQL, MongoDB
+- Tools & Other Technologies: Apache Kafka, Docker / Docker Compose, Redis, GitHub
 
 ---
 
