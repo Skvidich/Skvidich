@@ -1,13 +1,6 @@
-**Backend Golang Developer**
+**Backend Golang Developer/Student of BSUIR (Faculty of Computer Systems and Networks)**
 
 ---
-
-## Overview
-
-I specialize in building reliable backend systems, focusing on distributed architecture, real-time data processing, and microservices. My primary language is **Go**, and I work extensively with technologies such as **Kafka**, **PostgreSQL**, **gRPC**, and **Docker**. My development process is driven by clean architecture principles, scalability, and performance.
-
----
-
 ## Skills
 
 ### Languages & Frameworks
@@ -52,14 +45,6 @@ A modular service availability monitoring system.
 - Clean Architecture & DDD – organizing code for scalability and maintainability  
 - System Design – horizontal scaling, message queues, load balancing, caching  
 - API Design – REST best practices, OpenAPI/Swagger, designing backward-compatible interfaces  
-
----
-
-## Goals
-
-- Design and implement scalable, production-ready backend systems  
-- Deepen expertise in distributed computing and streaming architectures  
-- Contribute to open-source projects and collaborative engineering efforts  
 
 ---
 
