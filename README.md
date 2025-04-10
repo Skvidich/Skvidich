@@ -26,25 +26,10 @@
 
 ## Featured Project
 
-### UpOrDownDetector  
+### [UpOrDownDetector](https://github.com/Skvidich/UpOrDownDetector.git)  
 A modular service availability monitoring system.
 
-**Architecture:**
-- Two microservices: `dataCollector` and `dataProcessor`
-- Communication via Apache Kafka and gRPC
-- Data persistence with PostgreSQL
-- Uses external protocol definitions: [CollectorProto](https://github.com/Skvidich/CollectorProto.git)
-
 **Stack:** Go, Kafka, gRPC, PostgreSQL, Docker, GitHub Actions
-
----
-
-## Currently Learning
-
-- Advanced Go – generics, concurrency patterns, context propagation, memory optimization  
-- Clean Architecture & DDD – organizing code for scalability and maintainability  
-- System Design – horizontal scaling, message queues, load balancing, caching  
-- API Design – REST best practices, OpenAPI/Swagger, designing backward-compatible interfaces  
 
 ---
 
